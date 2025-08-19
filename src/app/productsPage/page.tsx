@@ -83,11 +83,11 @@ export default function Page() {
   ];
 
   const profileSheeting: Product[] = [
-    { title: "PebSeam128", img: "/profiles/PebSeam128.jpg" },
-    { title: "PebWall", img: "/profiles/PebWall.png" },
-    { title: "LokSeam", img: "/profiles/LokSeam.jpg" },
-    { title: "PebDek", img: "/profiles/PebDek.jpg" },
-    { title: "PebLiner", img: "/profiles/PebLiner.jpg" },
+    { title: "PebSeam128", img: "/Profiles/PebSeam128.jpg" },
+    { title: "PebWall", img: "/Profiles/PebWall.png" },
+    { title: "LokSeam", img: "/Profiles/LokSeam.jpg" },
+    { title: "PebDek", img: "/Profiles/PebDek.jpg" },
+    { title: "PebLiner", img: "/Profiles/PebLiner.jpg" },
   ];
 
   const color: Product[] = [
